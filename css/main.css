@@ -1,0 +1,16 @@
+
+.list-group-item{
+    margin-bottom: 4px !important;    
+    text-transform: capitalize;
+}
+.list-group-item:hover{
+    transform: translateY(-3px);
+    position: relative;
+}
+.listRemove li {
+    padding: 7px 0 7px 12px !important;
+}
+.listRemove li .btn{
+    position: absolute;
+    right: 0;
+}
